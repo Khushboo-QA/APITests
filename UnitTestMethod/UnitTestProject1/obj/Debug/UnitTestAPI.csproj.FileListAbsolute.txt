@@ -1,0 +1,34 @@
+C:\New folder\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\New folder\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\New folder\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\New folder\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\New folder\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\New folder\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\New folder\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\New folder\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\New folder\UnitTestProject1\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\New folder\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\New folder\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\New folder\UnitTestProject1\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+C:\New folder\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestAPI.csproj.AssemblyReference.cache
+C:\New folder\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestAPI.csproj.CoreCompileInputs.cache
+C:\New folder\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTest.5C84DDDA.Up2Date
+C:\New folder\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\New folder\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\APITesting\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\APITesting\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\APITesting\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\APITesting\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\APITesting\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\APITesting\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\APITesting\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\APITesting\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\APITesting\UnitTestProject1\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\APITesting\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\APITesting\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\APITesting\UnitTestProject1\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+C:\APITesting\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestAPI.csproj.AssemblyReference.cache
+C:\APITesting\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestAPI.csproj.CoreCompileInputs.cache
+C:\APITesting\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTest.5C84DDDA.Up2Date
+C:\APITesting\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\APITesting\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
